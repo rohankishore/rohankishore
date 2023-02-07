@@ -1,19 +1,26 @@
-<h1 align="center">Hi 👋, I'm Rohan Kishore</h1>
-<h3 align="center">A passionate 16yr old Python developer from India</h3>
-
-- 🔭 I’m currently working on [Aura Notes](https://github.com/rohankishore/Aura-Notes)
-
-- 🌱 I’m currently learning **PyQT6, Numpy, Tensorflow etc**
-
-- 💬 Ask me about **Python and Tkinter**
-
-- 📫 How to reach me **rohankishore746@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/horrorekt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="horrorekt" height="30" width="40" /></a>
-<a href="(https://www.instagram.com/_.j0ps/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jops.zuck" height="30" width="40" /></a>
+<p align="center">
+    <br><br>
+    <img alt="Python" src="https://img.shields.io/badge/Python-d92959.svg?style=for-the-badge&logo=python&logoColor=white"/>
+    <img alt="C++" src="https://img.shields.io/badge/C++-414574.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+    <img alt="C#" src="https://img.shields.io/badge/C%23-d92959.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+    <br><br>
+    <p align="center">
+      <img align="center" src="https://github.com/billyeatcookies/billyeatcookies/blob/output/github-contribution-grid-snake.svg" alt="twitter/billyeatcookies" />
+    </p>
+    <!--img src=https://user-images.githubusercontent.com/70792552/164441644-8ccf3b0d-2431-4a0a-903b-eb2f552cbd46.png-->
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<details align="center">
+<summary>...</summary>
+    <br>
+    <img src="https://user-images.githubusercontent.com/70792552/164445125-66b2e14b-7c4e-4ddc-8d3e-c40ee6cc8d4c.gif" align="right" width="500px">
+    <img src='https://user-images.githubusercontent.com/70792552/171557595-f99e891e-374e-4a19-9452-49f878fe933a.gif' height='90px'>
+    <br>
+    <p>
+      Yo! Rohan here 👋 <br> programmer, editor, etc. <br>
+      games are a weakness 🙄
+      <br>
+      Big Marvel fan 🚶 bit of anime fan --
+      Fav artists are Weeknd, Kendrick and Coldplay, Ezi <3
+    </p>
+    <br>
