@@ -1,8 +1,6 @@
 <p align="center">
     <br><br>
     <img alt="Python" src="https://img.shields.io/badge/Python-d92959.svg?style=for-the-badge&logo=python&logoColor=white"/>
-    <img alt="C++" src="https://img.shields.io/badge/C++-414574.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-    <img alt="C#" src="https://img.shields.io/badge/C%23-d92959.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
     <br><br>
     <p align="center">
       <img align="center" src="https://github.com/billyeatcookies/billyeatcookies/blob/output/github-contribution-grid-snake.svg" alt="twitter/billyeatcookies" />
