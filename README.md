@@ -18,6 +18,14 @@
 
 <br>
 
-<div align="center">
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohankishore&show_icons=true&locale=en" alt="rohankishore" /></p>
-</div>
+### 📊 Github Stats
+
+<div align="left">
+
+<img width=470  src='https://github-readme-stats.vercel.app/api?username=rohankishore&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' /> <img width=500 src='https://github-readme-streak-stats.herokuapp.com/?user=rohankishore&theme=vue-dark&hide_border=true' /> 
+
+
+
+
+<br>
+
