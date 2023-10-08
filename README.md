@@ -8,6 +8,11 @@
   <a href="https://twitter.com/Aura_Text">![Demo](https://img.shields.io/badge/Twitter-%23040404.svg?style=for-the-badge&logo=X&logoColor=white)</a>
 </div>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/rohankishore/count.svg" />
+</p>
+
 <br>
 
 <p align ="center"> 🌱 I’m currently learning C++ and JS (React)) </p>
