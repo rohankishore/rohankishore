@@ -19,6 +19,7 @@
 
 <br>
 
+- 🙋‍♂️ Currently 17 years old
 - 🌱 I’m currently learning C++ and JS (React))
 - 💬 Ask me about Python (Tkinter & PyQt6)
 - 📫 How to reach me: rohankishore746@gmail.com
