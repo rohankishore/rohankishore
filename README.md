@@ -15,7 +15,7 @@
 
 <br>
 
-### More About Me
+## More About Me
 
 <br>
 
@@ -37,7 +37,7 @@
 
 <br>
 
-### Languages & Tools
+## Languages & Tools
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyQt6](https://img.shields.io/badge/Pyqt6-%2319a463.svg?style=for-the-badge&logo=Canva&logoColor=white)
@@ -45,8 +45,10 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-
-
-
 <br>
+
+## GitHub Stats
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohankishore&show_icons=true&locale=en" alt="rohankishore" /></p>
+
 
