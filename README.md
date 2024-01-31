@@ -4,8 +4,9 @@
 <div align="center">
     
   ![BADGE](https://img.shields.io/badge/Python-%23f7d100.svg?style=for-the-badge&logo=Python&logoColor=white)
-  <a href="https://www.fiverr.com/rohancodespy/">![Demo](https://img.shields.io/badge/Fiverr-%2319a463.svg?style=for-the-badge&logo=Fiverr&logoColor=white)</a>
+  <a href="https://www.fiverr.com/rohancodespy/">![Demo](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)</a>
   <a href="https://twitter.com/Aura_Text">![Demo](https://img.shields.io/badge/Twitter-%23040404.svg?style=for-the-badge&logo=X&logoColor=white)</a>
+
 </div>
 
 <p align="center"> 
