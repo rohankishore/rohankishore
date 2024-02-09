@@ -6,6 +6,7 @@
   ![BADGE](https://img.shields.io/badge/Python-%23f7d100.svg?style=for-the-badge&logo=Python&logoColor=white)
   <a href="https://www.fiverr.com/rohancodespy/">![Demo](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)</a>
   <a href="https://twitter.com/Aura_Text">![Demo](https://img.shields.io/badge/Twitter-%23040404.svg?style=for-the-badge&logo=X&logoColor=white)</a>
+  <a href='https://ko-fi.com/V7V7QZ7GS' target='_blank'><img height='36' style='border:0px;height:29px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 </div>
 
