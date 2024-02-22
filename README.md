@@ -17,7 +17,7 @@
 
 <br>
 
-## More About Me
+## 👋🏻 More About Me
 
 <br>
 
@@ -30,7 +30,18 @@
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
+## 🧑🏻‍💻 Featured Projects
+
+1. [Aura Text](https://github.com/rohankishore/Aura-Text) : IDE made with PyQt6 and QScintilla
+2. [ZenNotes](https://github.com/rohankishore/ZenNotes) : Notepad alternative with TTS, Translations, etc
+3. [Spotifyte](https://github.com/rohankishore/Spotifyte) : Spotify track/playlist downloader with a modern fluent design
+4. [CashFlow](https://github.com/rohankishore/CashFlow) : Finance manager app with Expense and Income tracking
+5. [Graphyte](https://github.com/rohankishore/Graphyte) : Math graphing app like GeoGebra made with PyQt6, NumPy and Matplotlib
+6. [AnimeSnap](https://github.com/rohankishore/AnimeSnap) : Get details of an Anime like episode, timestamp, etc from just it's Screenshot
+
+<br>
+
+## 🤝 Connect with me:
 <p align="left">
 <a href="https://twitter.com/Aura_Text" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sachiinamoo" height="30" width="40" /></a>
 <a href="https://instagram.com/_.j0ps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamavgail._" height="30" width="40" /></a>
@@ -39,7 +50,8 @@
 
 <br>
 
-## Languages & Tools
+
+## ⛏️ Languages & Tools
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyQt6](https://img.shields.io/badge/Pyqt6-%2319a463.svg?style=for-the-badge&logo=Canva&logoColor=white)
@@ -49,7 +61,7 @@
 
 <br>
 
-## GitHub Stats
+## 📖 GitHub Stats
 
 ![rohankishore's Stats](https://github-readme-stats.vercel.app/api?username=rohankishore&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)  ![rohankishore's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohankishore&theme=vue-dark&hide_border=false)
 
