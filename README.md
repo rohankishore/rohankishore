@@ -36,8 +36,9 @@
 2. [ZenNotes](https://github.com/rohankishore/ZenNotes) : Notepad alternative with TTS, Translations, etc
 3. [Spotifyte](https://github.com/rohankishore/Spotifyte) : Spotify track/playlist downloader with a modern fluent design
 4. [CashFlow](https://github.com/rohankishore/CashFlow) : Finance manager app with Expense and Income tracking
-5. [Graphyte](https://github.com/rohankishore/Graphyte) : Math graphing app like GeoGebra made with PyQt6, NumPy and Matplotlib
-6. [AnimeSnap](https://github.com/rohankishore/AnimeSnap) : Get details of an Anime like episode, timestamp, etc from just it's Screenshot
+5. [cvGen](https://github.com/rohankishore/cvGen) : CV Generator using PyQt6 and Python. Create beautiful CVs easily
+6. [Graphyte](https://github.com/rohankishore/Graphyte) : Math graphing app like GeoGebra made with PyQt6, NumPy and Matplotlib
+7. [AnimeSnap](https://github.com/rohankishore/AnimeSnap) : Get details of an Anime like episode, timestamp, etc from just it's Screenshot
 
 <br>
 
