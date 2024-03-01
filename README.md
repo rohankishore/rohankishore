@@ -11,7 +11,7 @@
 </div>
 
 <p align="center"> 
-  View Count<br>
+  Viewer Count<br>
   <img src="https://profile-counter.glitch.me/rohankishore/count.svg" />
 </p>
 
