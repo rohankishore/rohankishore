@@ -56,11 +56,13 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyQt6](https://img.shields.io/badge/Pyqt6-%2319a463.svg?style=for-the-badge&logo=PyQt6&logoColor=white)
-![PyQt6](https://img.shields.io/badge/Tkinter-%2313233a.svg?style=for-the-badge&logo=Tkinter&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-%2313233a.svg?style=for-the-badge&logo=Tkinter&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
+![Github](https://img.shields.io/badge/GitHub-%231b1b1b.svg?style=for-the-badge&logo=GitHub&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23b22d47.svg?style=for-the-badge&logo=Gitb&logoColor=white)
+![InnoSetup](https://img.shields.io/badge/Inno&nbsp;Setup-%238eb9dc.svg?style=for-the-badge&logo=PyQt6&logoColor=white)
 <br>
 
 ## 📖 GitHub Stats
