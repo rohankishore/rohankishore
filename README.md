@@ -56,13 +56,6 @@
 3. [WiFi-Analyzer](https://github.com/rohankishore/WiFi-Analyzer): Network sniffer with built-in saved passwords viewer
 <br>
 
-## 🤝 Connect with me:
-<p align="left">
-<a href="https://twitter.com/Aura_Text" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sachiinamoo" height="30" width="40" /></a>
-<a href="https://instagram.com/_.j0ps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamavgail._" height="30" width="40" /></a>
-
-</p>
-
 <br>
 
 
