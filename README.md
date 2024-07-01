@@ -31,7 +31,7 @@
 
 - 🙋‍♂️ Currently 17 years old
 - 🌱 I’m currently learning NumPy, C++ and JS (Extreme beginner level))
-- 💬 Ask me about Python (Tkinter & PyQt6)
+- 💬 Ask me about Python(Tkinter & PyQt6)
 - 📫 How to reach me: rohankishore746@gmail.com
 - 🧑🏼‍💻 Hire me via Fiverr by clicking on the button at the top of this page
 - 🗃️ Carrd: https://rohankishore.carrd.co/
@@ -56,11 +56,7 @@
 3. [WiFi-Analyzer](https://github.com/rohankishore/WiFi-Analyzer): Network sniffer with built-in saved passwords viewer
 <br>
 
-<br>
-
-
 ## ⛏️ Languages & Tools
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyQt6](https://img.shields.io/badge/Pyqt6-%2319a463.svg?style=for-the-badge&logo=PyQt6&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-%2313233a.svg?style=for-the-badge&logo=Tkinter&logoColor=white)
@@ -70,19 +66,13 @@
 ![Github](https://img.shields.io/badge/GitHub-%231b1b1b.svg?style=for-the-badge&logo=GitHub&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23b22d47.svg?style=for-the-badge&logo=Gitb&logoColor=white)
 ![InnoSetup](https://img.shields.io/badge/Inno&nbsp;Setup-%238eb9dc.svg?style=for-the-badge&logo=PyQt6&logoColor=white)
-<br>
 
 ## 📖 GitHub Statistics
 
-#### Basic Stats
+### Basic Stats
 
 ![rohankishore's Stats](https://github-readme-stats.vercel.app/api?username=rohankishore&theme=vue-dark&show_icons=true&hide_border=false&count_private=true) 
 
-#### Trophy Showcase
+### Trophy Showcase
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rohankishore&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
-
-
-## 💻 Gears
-- Laptop: Asus Vivobook 16X (R5 5600H)
-- Phone: Nothing Phone (1)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rohankishore&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=false)
