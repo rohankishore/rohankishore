@@ -40,7 +40,7 @@
 <br>
 
 ## 🧑🏻‍💻 Featured Projects
-### PyQt6 Based 
+### GUI Based (PyQT6 and Tk)
 1. [Aura Text](https://github.com/rohankishore/Aura-Text) : IDE made with PyQt6 and QScintilla
 2. [Youtility](https://github.com/rohankishore/Youtility): Youtube video/playlist downloader with a modern fluent design and options to download audio/subtitles
 3. [ZenNotes](https://github.com/rohankishore/ZenNotes): Notepad alternative with TTS, Translations, etc
@@ -50,10 +50,14 @@
 7. [cvGen](https://github.com/rohankishore/cvGen) : CV Generator using PyQt6 and Python. Create beautiful CVs easily
 8. [Graphyte](https://github.com/rohankishore/Graphyte) : Math graphing app like GeoGebra made with PyQt6, NumPy and Matplotlib
 9. [Tempus](https://github.com/rohankishore/Tempus): Calendar with Horoscopes, TODOs, Reminders and much more
+10. [QRGen](https://github.com/rohankishore/QrGen): Custom QR Code Generator with Logo and color support
+11. [WiFi-Analyzer](https://github.com/rohankishore/WiFi-Analyzer): Network sniffer with built-in saved passwords viewer
+12. [WinCalc](https://github.com/rohankishore/WinCalc): Windows Calculator clone made with Tk
 
-## Tkinter Based 
-1. [QRGen](https://github.com/rohankishore/QrGen): Custom QR Code Generator with Logo and color support
-3. [WiFi-Analyzer](https://github.com/rohankishore/WiFi-Analyzer): Network sniffer with built-in saved passwords viewer
+### Other Projects
+1. [PhysiPy](https://github.com/rohankishore/PhysiPy): Python library to solve Physics equations
+2. [Plotium](https://github.com/rohankishore/Plotium): Python library to plot chemical trends like Electronegativity, Atomic Radius, etc
+3. [QoolTabs](https://github.com/rohankishore/QoolTabs): PyQt6/PySide6 TabWidget with drag and drop support and customizable context menu
 <br>
 
 ## ⛏️ Languages & Tools
