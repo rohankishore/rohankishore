@@ -10,10 +10,11 @@
 
 <div align="center">
     
-<a href="https://www.hackerrank.com/profile/rohankishore7461">![Demo](https://img.shields.io/badge/hackerrank-1DBF73?style=for-the-badge&logo=hackerrank&logoColor=white)</a>
+  <a href="https://www.hackerrank.com/profile/rohankishore7461">![Demo](https://img.shields.io/badge/hackerrank-1DBF73?style=for-the-badge&logo=hackerrank&logoColor=white)</a>
   <a href="https://www.fiverr.com/rohancodespy/">![Demo](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)</a>
   <a href="https://twitter.com/Aura_Text">![Demo](https://img.shields.io/badge/Twitter-%23040404.svg?style=for-the-badge&logo=X&logoColor=white)</a>
-  <a href='https://ko-fi.com/V7V7QZ7GS' target='_blank'><img height='36' style='border:0px;height:29px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+  <a href="https://www.linkedin.com/in/rohan-kishore-58a6361b9/">![Demo](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+  <a href="https://www.linkedin.com/in/rohan-kishore-58a6361b9/">![Demo](https://img.shields.io/badge/Kofi-ff5d5b?style=for-the-badge&logo=kofi&logoColor=white)</a>
  
 </div> 
 
