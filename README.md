@@ -30,7 +30,7 @@
 
 <br>
 
-- 🙋‍♂️ Currently 17 years old
+- 🙋‍♂️ Currently 18 years old
 - 🌱 I’m currently learning NumPy, C++ and JS (Extreme beginner level))
 - 💬 Ask me about Python(Tkinter & PyQt6)
 - 📫 How to reach me: rohankishore746@gmail.com
