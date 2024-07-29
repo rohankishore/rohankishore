@@ -80,7 +80,7 @@
 ![rohankishore's Stats](https://github-readme-stats.vercel.app/api?username=rohankishore&theme=vue-dark&show_icons=true&hide_border=false&count_private=true) 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rohankishore&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=false)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rohankishore&theme=juicyfresh&no-frame=false&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=false)
 
 <br>
 
