@@ -86,7 +86,8 @@
 
 ## Certifications
 ![image](https://github.com/rohankishore/rohankishore/assets/109947257/ee6695eb-e93b-465b-b50d-f5215b1ae5f9) ![Python Basic](https://github.com/user-attachments/assets/6869f0ca-2a52-4082-974d-4ecbc953b7e6)
- ![Python for Beginners](https://github.com/user-attachments/assets/33e20867-5fec-44dd-9aa6-db39fc459f11) ![Python DS](https://github.com/user-attachments/assets/e4f8da55-e735-4241-a344-85e03e9e4be0)
+ ![Python for Beginners](https://github.com/user-attachments/assets/33e20867-5fec-44dd-9aa6-db39fc459f11) ![Python DS](https://github.com/user-attachments/assets/e4f8da55-e735-4241-a344-85e03e9e4be0) ![image 4](https://github.com/user-attachments/assets/246dcd04-dc49-4246-ae6d-066ee155ad55)
+
 
 
 
