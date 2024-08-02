@@ -27,6 +27,17 @@
 
 <br>
 
+# 📃 Table of Contents
+- [👋🏻 More About Me](#-----more-about-me)
+- [⛏️ Languages, Frameworks & Tools](#---languages--frameworks---tools)
+- [🧑🏻‍💻 Featured Projects](#--------featured-projects)
+  * [GUI Based (PyQT6 and Tk)](#gui-based--pyqt6-and-tk-)
+  * [Other Projects](#other-projects)
+- [📖 GitHub Statistics](#---github-statistics)
+- [📟 Certifications](#---certifications)
+
+<br>
+
 ## 👋🏻 More About Me
 
 <br>
@@ -41,7 +52,7 @@
 
 <br>
 
-## ⛏️ Languages & Tools
+## ⛏️ Languages, Frameworks & Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyQt6](https://img.shields.io/badge/Pyqt6-%2319a463.svg?style=for-the-badge&logo=PyQt6&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-%2313233a.svg?style=for-the-badge&logo=Tkinter&logoColor=white)
@@ -51,7 +62,12 @@
 ![Github](https://img.shields.io/badge/GitHub-%231b1b1b.svg?style=for-the-badge&logo=GitHub&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23b22d47.svg?style=for-the-badge&logo=Gitb&logoColor=white)
 ![InnoSetup](https://img.shields.io/badge/Inno&nbsp;Setup-%238eb9dc.svg?style=for-the-badge&logo=PyQt6&logoColor=white)
-![CMD](https://img.shields.io/badge/CMD&nbsp;-%2000000.svg?style=for-the-badge&logo=CMD&logoColor=white)
+![CMD](https://img.shields.io/badge/CMD&nbsp;-%23000000.svg?style=for-the-badge&logo=CMD&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
 <br>
@@ -89,13 +105,6 @@
 
 <br>
 
-## Certifications
+## 📟 Certifications
 ![image](https://github.com/rohankishore/rohankishore/assets/109947257/ee6695eb-e93b-465b-b50d-f5215b1ae5f9) ![Python Basic](https://github.com/user-attachments/assets/6869f0ca-2a52-4082-974d-4ecbc953b7e6)
  ![Python for Beginners](https://github.com/user-attachments/assets/33e20867-5fec-44dd-9aa6-db39fc459f11) ![Python DS](https://github.com/user-attachments/assets/e4f8da55-e735-4241-a344-85e03e9e4be0) ![image 4](https://github.com/user-attachments/assets/246dcd04-dc49-4246-ae6d-066ee155ad55)
-
-
-
-
-
-
-
