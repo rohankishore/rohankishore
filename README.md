@@ -16,6 +16,8 @@
   <a href="https://twitter.com/Aura_Text">![Demo](https://img.shields.io/badge/Twitter-%23040404.svg?style=for-the-badge&logo=X&logoColor=white)</a>
   <a href="https://www.linkedin.com/in/rohan-kishore-58a6361b9/">![Demo](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)</a>
   <a href="https://www.linkedin.com/in/rohan-kishore-58a6361b9/">![Demo](https://img.shields.io/badge/Kofi-ff5d5b?style=for-the-badge&logo=kofi&logoColor=white)</a>
+    <a href="https://codipy.hashnode.dev/">![Demo](https://img.shields.io/badge/Hashnode-2962ff?style=for-the-badge&logo=hashnode&logoColor=white)</a>
+  
  
 </div> 
 
@@ -64,10 +66,12 @@
 ![InnoSetup](https://img.shields.io/badge/Inno&nbsp;Setup-%238eb9dc.svg?style=for-the-badge&logo=PyQt6&logoColor=white)
 ![CMD](https://img.shields.io/badge/CMD&nbsp;-%23000000.svg?style=for-the-badge&logo=CMD&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 
 <br>
