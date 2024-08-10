@@ -35,7 +35,7 @@
 - [🧑🏻‍💻 Featured Projects](#-featured-projects)
   * [GUI Based (PyQT6 and Tk)](#gui-based--pyqt6-and-tk-)
   * [Other Projects](#other-projects)
-- [📖 GitHub Statistics](#---github-statistics)
+- [📖 GitHub Statistics](#-github-statistics)
 - [📟 Certifications](#-certifications)
 
 <br>
