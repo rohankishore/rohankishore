@@ -30,7 +30,7 @@
 <br>
 
 # 📃 Table of Contents
-- [👋🏻 More About Me](#-----more-about-me)
+- [👋🏻 More About Me](#-more-about-me)
 - [⛏️ Languages, Frameworks & Tools](#-languages--frameworks---tools)
 - [🧑🏻‍💻 Featured Projects](#-featured-projects)
   * [GUI Based (PyQT6 and Tk)](#gui-based--pyqt6-and-tk-)
