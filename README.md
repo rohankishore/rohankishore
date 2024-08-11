@@ -32,7 +32,7 @@
 # 📃 Table of Contents
 - [👋🏻 More About Me](#-more-about-me)
 - [⛏️ Languages, Frameworks & Tools](#-languages-frameworks--tools)
-- [🧑🏻‍💻 Featured Projects](#-featured-projects)
+- [🧑🏻‍💻 Featured Projects](#-featured-projects)  
   * [GUI Based (PyQT6 and Tk)](#gui-based--pyqt6-and-tk-)
   * [Other Projects](#other-projects)
 - [📖 GitHub Statistics](#-github-statistics)
