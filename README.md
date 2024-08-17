@@ -8,7 +8,7 @@
 
 <p align ="center">Aspiring Python dev from Kerala, India burdened by the exams of life (& school) </p>
 
-<div align="center">
+<div align="center">  
     
   <a href="https://www.hackerrank.com/profile/rohankishore7461">![Demo](https://img.shields.io/badge/hackerrank-1DBF73?style=for-the-badge&logo=hackerrank&logoColor=white)</a>
     <a href="https://rohankishore.github.io/">![Demo](https://img.shields.io/badge/Portfolio-acb6ca?style=for-the-badge&logo=portfolio&logoColor=white)</a>
