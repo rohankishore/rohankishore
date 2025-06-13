@@ -82,14 +82,15 @@
 2. [Youtility](https://github.com/rohankishore/Youtility): Youtube video/playlist downloader with a modern fluent design and options to download audio/subtitles
 3. [ZenNotes](https://github.com/rohankishore/ZenNotes): Notepad alternative with TTS, Translations, etc
 4. [Spotifyte](https://github.com/rohankishore/Spotifyte): Spotify track/playlist downloader with a modern fluent design
-5. [CashFlow](https://github.com/rohankishore/CashFlow): Finance manager app with Expense and Income tracking
-6. [AnimeSnap](https://github.com/rohankishore/AnimeSnap): Get details of an Anime like the episode, timestamp, etc from just its Screenshot
-7. [cvGen](https://github.com/rohankishore/cvGen) : CV Generator using PyQt6 and Python. Create beautiful CVs easily
-8. [Graphyte](https://github.com/rohankishore/Graphyte) : Math graphing app like GeoGebra made with PyQt6, NumPy and Matplotlib
-9. [Tempus](https://github.com/rohankishore/Tempus): Calendar with Horoscopes, TODOs, Reminders and much more
-10. [QRGen](https://github.com/rohankishore/QrGen): Custom QR Code Generator with Logo and color support
-11. [WiFi-Analyzer](https://github.com/rohankishore/WiFi-Analyzer): Network sniffer with built-in saved passwords viewer
-12. [WinCalc](https://github.com/rohankishore/WinCalc): Windows Calculator clone made with Tk
+5. [Submind](https://github.com/rohankishore/Submind): AI Based Subtitles Generator for Videos / Audios with support for batch generation
+6. [CashFlow](https://github.com/rohankishore/CashFlow): Finance manager app with Expense and Income tracking
+7. [AnimeSnap](https://github.com/rohankishore/AnimeSnap): Get details of an Anime like the episode, timestamp, etc from just its Screenshot
+8. [cvGen](https://github.com/rohankishore/cvGen) : CV Generator using PyQt6 and Python. Create beautiful CVs easily
+9. [Graphyte](https://github.com/rohankishore/Graphyte) : Math graphing app like GeoGebra made with PyQt6, NumPy and Matplotlib
+10. [Tempus](https://github.com/rohankishore/Tempus): Calendar with Horoscopes, TODOs, Reminders and much more
+11. [QRGen](https://github.com/rohankishore/QrGen): Custom QR Code Generator with Logo and color support
+12. [WiFi-Analyzer](https://github.com/rohankishore/WiFi-Analyzer): Network sniffer with built-in saved passwords viewer
+13. [WinCalc](https://github.com/rohankishore/WinCalc): Windows Calculator clone made with Tk
 
 ### Other Projects
 1. [PhysiPy](https://github.com/rohankishore/PhysiPy): Python library to solve Physics equations
