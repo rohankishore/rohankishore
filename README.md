@@ -44,13 +44,10 @@
 
 <br>
 
-- 🙋‍♂️ Currently 18 years old
+- 🙋‍♂️ Currently 19 years old
 - 🌱 I’m currently learning web development 
 - 💬 Ask me about Python(Tkinter & PyQt6)
-- 📫 How to reach me: rohankishore746@gmail.com
 - 🧑🏼‍💻 Hire me via Fiverr by clicking on the button at the top of this page
-- 🗃️ Carrd: https://rohankishore.carrd.co/
-
 
 <br>
 
