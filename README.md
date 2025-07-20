@@ -21,12 +21,6 @@
  
 </div> 
 
-
-<p align="center"> 
-  Viewer Count<br>
-  <img src="https://profile-counter.glitch.me/rohankishore/count.svg" />
-</p>
-
 <br>
 
 # 📃 Table of Contents
@@ -59,7 +53,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-%231b1b1b.svg?style=for-the-badge&logo=GitHub&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23b22d47.svg?style=for-the-badge&logo=Gitb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23b22d47.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![InnoSetup](https://img.shields.io/badge/Inno&nbsp;Setup-%238eb9dc.svg?style=for-the-badge&logo=PyQt6&logoColor=white)
 ![CMD](https://img.shields.io/badge/CMD&nbsp;-%23000000.svg?style=for-the-badge&logo=CMD&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
@@ -74,7 +68,10 @@
 <br>
 
 ## 🧑🏻‍💻 Featured Projects
-### GUI Based (PyQT6 and Tk)
+
+<details>
+  <summary>📁 GUI Based (PyQt6 and Tk)</summary>
+    
 1. [Aura Text](https://github.com/rohankishore/Aura-Text) : IDE made with PyQt6 and QScintilla
 2. [Youtility](https://github.com/rohankishore/Youtility): Youtube video/playlist downloader with a modern fluent design and options to download audio/subtitles
 3. [ZenNotes](https://github.com/rohankishore/ZenNotes): Notepad alternative with TTS, Translations, etc
@@ -88,14 +85,19 @@
 11. [QRGen](https://github.com/rohankishore/QrGen): Custom QR Code Generator with Logo and color support
 12. [WiFi-Analyzer](https://github.com/rohankishore/WiFi-Analyzer): Network sniffer with built-in saved passwords viewer
 13. [WinCalc](https://github.com/rohankishore/WinCalc): Windows Calculator clone made with Tk
+</details>
 
-### Other Projects
+
+<details>
+  <summary>📁 Other Projects </summary>
+
 1. [PhysiPy](https://github.com/rohankishore/PhysiPy): Python library to solve Physics equations
 2. [Dash](https://github.com/rohankishore/Dash): An endless runner with Cyberpunk theme
 3. [PasteCMD](https://github.com/rohankishore/PasteCMD): CLI App for Pastebin
 4. [Plotium](https://github.com/rohankishore/Plotium): Python library to plot chemical trends like Electronegativity, Atomic Radius, etc
 5. [QoolTabs](https://github.com/rohankishore/QoolTabs): PyQt6/PySide6 TabWidget with drag and drop support and customizable context menu
-<br>
+   
+</details>
 
 <br>
 
@@ -105,6 +107,14 @@
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rohankishore&theme=juicyfresh&no-frame=false&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=false)
+
+<br>
+
+## Connect with Me
+
+=[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohankishore/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Aura_Text)
+[![Fiverr](https://img.shields.io/badge/-Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white)](https://www.fiverr.com/rohancodespy)
 
 <br>
 
