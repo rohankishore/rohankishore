@@ -39,9 +39,10 @@
 <br>
 
 - 🙋‍♂️ Currently 19 years old
-- 🌱 I’m currently learning web development 
+- 🌱 I’m currently learning web development
+- 🧑‍💻 Currently working on [Koodaram](https://koodaram.vercel.app)
 - 💬 Ask me about Python(Tkinter & PyQt6)
-- 🧑🏼‍💻 Hire me via Fiverr by clicking on the button at the top of this page
+- 💵 Hire me via Fiverr by clicking on the button at the top of this page
 
 <br>
 
