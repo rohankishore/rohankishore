@@ -16,7 +16,6 @@
   <a href="https://twitter.com/Aura_Text">![Demo](https://img.shields.io/badge/Twitter-%23040404.svg?style=for-the-badge&logo=X&logoColor=white)</a>
   <a href="https://www.linkedin.com/in/rohankishore/">![Demo](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)</a>
   <a href="https://ko-fi.com/rohankishore">![Demo](https://img.shields.io/badge/Kofi-ff5d5b?style=for-the-badge&logo=kofi&logoColor=white)</a>
-    <a href="https://codipy.hashnode.dev/">![Demo](https://img.shields.io/badge/Hashnode-2962ff?style=for-the-badge&logo=hashnode&logoColor=white)</a>
   
  
 </div> 
