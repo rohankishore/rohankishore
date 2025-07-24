@@ -26,8 +26,6 @@
 - [👋🏻 More About Me](#-more-about-me)
 - [⛏️ Languages, Frameworks & Tools](#-languages-frameworks--tools)
 - [🧑🏻‍💻 Featured Projects](#-featured-projects)  
-  * [GUI Based (PyQT6 and Tk)](#gui-based--pyqt6-and-tk-)
-  * [Other Projects](#other-projects)
 - [📖 GitHub Statistics](#-github-statistics)
 - [📟 Certifications](#-certifications)
 
@@ -46,10 +44,20 @@
 <br>
 
 ## ⛏️ Languages, Frameworks & Tools
+
+### Languages
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Frameworks
 ![PyQt6](https://img.shields.io/badge/Pyqt6-%2319a463.svg?style=for-the-badge&logo=PyQt6&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-%2313233a.svg?style=for-the-badge&logo=Tkinter&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+### Tools
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-%231b1b1b.svg?style=for-the-badge&logo=GitHub&logoColor=white)
@@ -58,9 +66,6 @@
 ![CMD](https://img.shields.io/badge/CMD&nbsp;-%23000000.svg?style=for-the-badge&logo=CMD&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
