@@ -96,11 +96,17 @@
 <details>
   <summary>📁 Other Projects </summary>
 
+1. [Dash](https://github.com/rohankishore/Dash): An endless runner with Cyberpunk theme
+2. [PasteCMD](https://github.com/rohankishore/PasteCMD): CLI App for Pastebin
+3. [QoolTabs](https://github.com/rohankishore/QoolTabs): PyQt6/PySide6 TabWidget with drag and drop support and customizable context menu
+   
+</details>
+
+<details>
+  <summary>📁 Educational </summary>
+    
 1. [PhysiPy](https://github.com/rohankishore/PhysiPy): Python library to solve Physics equations
-2. [Dash](https://github.com/rohankishore/Dash): An endless runner with Cyberpunk theme
-3. [PasteCMD](https://github.com/rohankishore/PasteCMD): CLI App for Pastebin
-4. [Plotium](https://github.com/rohankishore/Plotium): Python library to plot chemical trends like Electronegativity, Atomic Radius, etc
-5. [QoolTabs](https://github.com/rohankishore/QoolTabs): PyQt6/PySide6 TabWidget with drag and drop support and customizable context menu
+2. [Plotium](https://github.com/rohankishore/Plotium): Python library to plot chemical trends like Electronegativity, Atomic Radius, etc
    
 </details>
 
