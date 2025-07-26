@@ -50,6 +50,8 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![CSS](https://img.shields.io/badge/css-4479A1.svg?style=for-the-badge&logo=css&logoColor=white)
+![html](https://img.shields.io/badge/html-4479A1.svg?style=for-the-badge&logo=html&logoColor=white)
 
 ### Frameworks
 ![PyQt6](https://img.shields.io/badge/Pyqt6-%2319a463.svg?style=for-the-badge&logo=PyQt6&logoColor=white)
