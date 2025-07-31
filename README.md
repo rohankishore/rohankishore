@@ -124,13 +124,6 @@
 
 <br>
 
-## Connect with Me
-
-=[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohankishore/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Aura_Text)
-[![Fiverr](https://img.shields.io/badge/-Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white)](https://www.fiverr.com/rohancodespy)
-
-<br>
 
 ## 📟 Certifications
 ![image](https://github.com/rohankishore/rohankishore/assets/109947257/ee6695eb-e93b-465b-b50d-f5215b1ae5f9) ![Python Basic](https://github.com/user-attachments/assets/6869f0ca-2a52-4082-974d-4ecbc953b7e6)
