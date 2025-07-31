@@ -36,7 +36,7 @@
 <br>
 
 - 🙋‍♂️ Currently 19 years old
-- Pursuing Electrical and Computer Engineering at CET, Trivandrum
+- 🏫 Pursuing Electrical and Computer Engineering at CET, Trivandrum
 - 🌱 I’m currently learning web development
 - 🧑‍💻 Currently working on [Koodaram](https://koodaram.vercel.app)
 - 💬 Ask me about Python(Tkinter & PyQt6)
