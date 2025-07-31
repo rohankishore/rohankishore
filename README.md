@@ -38,7 +38,7 @@
 - 🙋‍♂️ Currently 19 years old
 - 🏫 Pursuing Electrical and Computer Engineering at CET, Trivandrum
 - 🌱 I’m currently learning web development
-- 🧑‍💻 Currently working on [Koodaram](https://koodaram.vercel.app)
+- 🧑‍💻 Currently working on [Koodaram](https://koodaram.vercel.app) and [EngiNote](https://github.com/rohankishore/EngiNote)
 - 💬 Ask me about Python(Tkinter & PyQt6)
 - 💵 Hire me via Fiverr by clicking on the button at the top of this page
 
