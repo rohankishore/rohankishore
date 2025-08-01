@@ -1,132 +1,156 @@
-![WELCOME!](https://github.com/rohankishore/rohankishore/assets/109947257/f50a5315-5380-4777-b7a8-0184aaa79897)
-
 <div align="center">
+  <img src="https://github.com/rohankishore/rohankishore/assets/109947257/f50a5315-5380-4777-b7a8-0184aaa79897" alt="Welcome Banner">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&background=40FFAC00&vCenter=true&random=false&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hi+there!+I'm+Rohan" alt="Typing SVG"></a>
+  
+  <p>An aspiring Python Developer from Kerala, India, balancing a passion for code with my Electrical & Computer Engineering studies.</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&background=40FFAC00&vCenter=true&random=false&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hi+there!+I'm+Rohan+)
-
+  <h3>Let's Connect!</h3>
+  <a href="https://www.hackerrank.com/profile/rohankishore7461"><img src="https://img.shields.io/badge/hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
+  <a href="https://rohankishore.github.io/"><img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://www.fiverr.com/rohancodespy/"><img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"></a>
+  <a href="https://twitter.com/Aura_Text"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=X&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/rohankishore/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://ko-fi.com/rohankishore"><img src="https://img.shields.io/badge/Kofi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white"></a>
 </div>
 
-<p align ="center">Aspiring Python dev from Kerala, India burdened by the exams of life (& school) </p>
+---
 
-<div align="center">  
-    
-  <a href="https://www.hackerrank.com/profile/rohankishore7461">![Demo](https://img.shields.io/badge/hackerrank-1DBF73?style=for-the-badge&logo=hackerrank&logoColor=white)</a>
-    <a href="https://rohankishore.github.io/">![Demo](https://img.shields.io/badge/Portfolio-acb6ca?style=for-the-badge&logo=portfolio&logoColor=white)</a>
-  <a href="https://www.fiverr.com/rohancodespy/">![Demo](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)</a>
-  <a href="https://twitter.com/Aura_Text">![Demo](https://img.shields.io/badge/Twitter-%23040404.svg?style=for-the-badge&logo=X&logoColor=white)</a>
-  <a href="https://www.linkedin.com/in/rohankishore/">![Demo](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-  <a href="https://ko-fi.com/rohankishore">![Demo](https://img.shields.io/badge/Kofi-ff5d5b?style=for-the-badge&logo=kofi&logoColor=white)</a>
+### 👋 About Me
+I'm a 19-year-old developer and a student at the **College of Engineering, Trivandrum (CET)**, pursuing a degree in Electrical and Computer Engineering. My primary passion lies in building functional and user-friendly desktop applications with Python.
+
+- 🌱 **Currently Learning:** Full-stack web development to broaden my skillset.
+- 🚀 **Currently Building:** [Koodaram](https://koodaram.vercel.app), a community platform, and [EngiNote](https://github.com/rohankishore/EngiNote), a note-taking app for engineering students.
+- 💬 **Ask me about:** Python, especially GUI development with **PyQt6** and **Tkinter**.
+- 💼 **Open to work:** I'm available for freelance projects! You can hire me on [Fiverr](https://www.fiverr.com/rohancodespy/).
+
+---
+
+### 🧰 My Tech Stack
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>Languages</h4>
+      <p>
+        <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+        <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+        <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+        <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+      </p>
+      <h4>Frameworks & Libraries</h4>
+      <p>
+        <img src="https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PyQt6">
+        <img src="https://img.shields.io/badge/Tkinter-2B5B84?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter">
+        <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+        <img src="https://img.shields.io/badge/Matplotlib-3175A2?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <h4>Tools & Platforms</h4>
+      <p>
+        <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+        <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+        <img src="https://img.shields.io/badge/Pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm">
+        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+        <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+        <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
+        <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+        <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Featured Projects
+
+Here are a few projects I'm particularly proud of.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/rohankishore/Aura-Text">Aura Text</a></h3>
+      <p>A versatile IDE/Text Editor built with PyQt6 and QScintilla, designed for extensibility and a modern user experience.</p>
+      <p><code>Python</code> <code>PyQt6</code> <code>QScintilla</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/rohankishore/Schemix">Schemix</a></h3>
+      <p>An all-in-one IDE for Engineers, Scientists, and Students, packed with tools for scientific computing and visualization.</p>
+      <p><code>Python</code> <code>PyQt6</code> <code>NumPy</code> <code>Matplotlib</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/rohankishore/Youtility">Youtility</a></h3>
+      <p>A sleek, modern YouTube downloader that handles videos, playlists, audio, and subtitles with a fluent design.</p>
+      <p><code>Python</code> <code>PyQt6</code> <code>yt-dlp</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/rohankishore/AnimeSnap">AnimeSnap</a></h3>
+      <p>An innovative tool that identifies an anime's details (episode, timestamp) from just a screenshot using trace.moe API.</p>
+      <p><code>Python</code> <code>PyQt6</code> <code>API</code></p>
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary>📁 Click to see all projects</summary>
   
- 
-</div> 
+  <h4>GUI Based (PyQt6 & Tk)</h4>
+  <ul>
+    <li><b>Aura Text</b>: IDE made with PyQt6 and QScintilla</li>
+    <li><b>Youtility</b>: Youtube video/playlist downloader with a modern fluent design</li>
+    <li><b>ZenNotes</b>: Notepad alternative with TTS, Translations, etc</li>
+    <li><b>Spotifyte</b>: Spotify track/playlist downloader with a modern fluent design</li>
+    <li><b>Schemix</b>: An IDE for Engineers, Scientists and Students made entirely with Python</li>
+    <li><b>Submind</b>: AI Based Subtitles Generator for Videos / Audios</li>
+    <li><b>CashFlow</b>: Finance manager app with Expense and Income tracking</li>
+    <li><b>AnimeSnap</b>: Get details of an Anime from just its Screenshot</li>
+    <li><b>cvGen</b>: CV Generator using PyQt6 to create beautiful CVs easily</li>
+    <li><b>Graphyte</b>: Math graphing app like GeoGebra made with PyQt6 & Matplotlib</li>
+    <li><b>Tempus</b>: Calendar with Horoscopes, TODOs, and Reminders</li>
+    <li><b>QRGen</b>: Custom QR Code Generator with Logo and color support</li>
+    <li><b>WiFi-Analyzer</b>: Network sniffer with built-in saved passwords viewer</li>
+    <li><b>WinCalc</b>: Windows Calculator clone made with Tk</li>
+  </ul>
 
-<br>
-
-# 📃 Table of Contents
-- [👋🏻 More About Me](#-more-about-me)
-- [⛏️ Languages, Frameworks & Tools](#-languages-frameworks--tools)
-- [🧑🏻‍💻 Featured Projects](#-featured-projects)  
-- [📖 GitHub Statistics](#-github-statistics)
-- [📟 Certifications](#-certifications)
-
-<br>
-
-## 👋🏻 More About Me
-
-<br>
-
-- 🙋‍♂️ Currently 19 years old
-- 🏫 Pursuing Electrical and Computer Engineering at CET, Trivandrum
-- 🌱 I’m currently learning web development
-- 🧑‍💻 Currently working on [Koodaram](https://koodaram.vercel.app) and [EngiNote](https://github.com/rohankishore/EngiNote)
-- 💬 Ask me about Python(Tkinter & PyQt6)
-- 💵 Hire me via Fiverr by clicking on the button at the top of this page
-
-<br>
-
-## ⛏️ Languages, Frameworks & Tools
-
-### Languages
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![CSS](https://img.shields.io/badge/css-4479A1.svg?style=for-the-badge&logo=css&logoColor=white)
-![html](https://img.shields.io/badge/html-4479A1.svg?style=for-the-badge&logo=html&logoColor=white)
-
-### Frameworks
-![PyQt6](https://img.shields.io/badge/Pyqt6-%2319a463.svg?style=for-the-badge&logo=PyQt6&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-%2313233a.svg?style=for-the-badge&logo=Tkinter&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
-### Tools
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Github](https://img.shields.io/badge/GitHub-%231b1b1b.svg?style=for-the-badge&logo=GitHub&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23b22d47.svg?style=for-the-badge&logo=Git&logoColor=white)
-![InnoSetup](https://img.shields.io/badge/Inno&nbsp;Setup-%238eb9dc.svg?style=for-the-badge&logo=PyQt6&logoColor=white)
-![CMD](https://img.shields.io/badge/CMD&nbsp;-%23000000.svg?style=for-the-badge&logo=CMD&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-
-
-<br>
-
-## 🧑🏻‍💻 Featured Projects
-
-<details>
-  <summary>📁 GUI Based (PyQt6 and Tk)</summary>
-    
-1. [Aura Text](https://github.com/rohankishore/Aura-Text) : IDE made with PyQt6 and QScintilla
-2. [Youtility](https://github.com/rohankishore/Youtility): Youtube video/playlist downloader with a modern fluent design and options to download audio/subtitles
-3. [ZenNotes](https://github.com/rohankishore/ZenNotes): Notepad alternative with TTS, Translations, etc
-4. [Spotifyte](https://github.com/rohankishore/Spotifyte): Spotify track/playlist downloader with a modern fluent design
-5. [Schemix](https://github.com/rohankishore/Schemix): An IDE for Engineers, Scientists and Students made entirely with Python
-6. [Submind](https://github.com/rohankishore/Submind): AI Based Subtitles Generator for Videos / Audios with support for batch generation
-7. [CashFlow](https://github.com/rohankishore/CashFlow): Finance manager app with Expense and Income tracking
-8. [AnimeSnap](https://github.com/rohankishore/AnimeSnap): Get details of an Anime like the episode, timestamp, etc from just its Screenshot
-9. [cvGen](https://github.com/rohankishore/cvGen) : CV Generator using PyQt6 and Python. Create beautiful CVs easily
-10. [Graphyte](https://github.com/rohankishore/Graphyte) : Math graphing app like GeoGebra made with PyQt6, NumPy and Matplotlib
-11. [Tempus](https://github.com/rohankishore/Tempus): Calendar with Horoscopes, TODOs, Reminders and much more
-12. [QRGen](https://github.com/rohankishore/QrGen): Custom QR Code Generator with Logo and color support
-13. [WiFi-Analyzer](https://github.com/rohankishore/WiFi-Analyzer): Network sniffer with built-in saved passwords viewer
-14. [WinCalc](https://github.com/rohankishore/WinCalc): Windows Calculator clone made with Tk
+  <h4>Other Projects</h4>
+  <ul>
+    <li><b>Dash</b>: An endless runner game with a Cyberpunk theme</li>
+    <li><b>PasteCMD</b>: CLI App for Pastebin</li>
+    <li><b>QoolTabs</b>: PyQt6/PySide6 TabWidget with drag-and-drop support</li>
+  </ul>
+  
+  <h4>Educational</h4>
+  <ul>
+    <li><b>PhysiPy</b>: Python library to solve Physics equations</li>
+    <li><b>Plotium</b>: Python library to plot chemical trends (Electronegativity, Atomic Radius, etc.)</li>
+  </ul>
 </details>
 
+---
 
-<details>
-  <summary>📁 Other Projects </summary>
+### 📊 GitHub Statistics
 
-1. [Dash](https://github.com/rohankishore/Dash): An endless runner with Cyberpunk theme
-2. [PasteCMD](https://github.com/rohankishore/PasteCMD): CLI App for Pastebin
-3. [QoolTabs](https://github.com/rohankishore/QoolTabs): PyQt6/PySide6 TabWidget with drag and drop support and customizable context menu
-   
-</details>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohankishore&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" alt="Rohan's GitHub Stats">
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=rohankishore&theme=juicyfresh&no-frame=false&row=1&margin-w=20&no-bg=true" alt="Rohan's GitHub Trophies">
+</div>
 
-<details>
-  <summary>📁 Educational </summary>
-    
-1. [PhysiPy](https://github.com/rohankishore/PhysiPy): Python library to solve Physics equations
-2. [Plotium](https://github.com/rohankishore/Plotium): Python library to plot chemical trends like Electronegativity, Atomic Radius, etc
-3. [Schemix](https://github.com/rohankishore/Schemix): An IDE for Engineers, Scientists and Students made entirely with Python
-   
-</details>
+---
 
-<br>
+### 📜 Certifications
+Here are some of my certifications from HackerRank and Sololearn.
 
-## 📖 GitHub Statistics
+<div align="center">
+  
+| Python (Basic) | Python for Beginners |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/6869f0ca-2a52-4082-974d-4ecbc953b7e6" width="300" alt="HackerRank Python Basic"> | <img src="https://github.com/user-attachments/assets/33e20867-5fec-44dd-9aa6-db39fc459f11" width="300" alt="Sololearn Python for Beginners"> |
+| **Python for Data Science** | **SQL (Intermediate)** |
+| <img src="https://github.com/user-attachments/assets/e4f8da55-e735-4241-a344-85e03e9e4be0" width="300" alt="Sololearn Python for Data Science"> | <img src="https://github.com/user-attachments/assets/246dcd04-dc49-4246-ae6d-066ee155ad55" width="300" alt="HackerRank SQL Intermediate"> |
 
-![rohankishore's Stats](https://github-readme-stats.vercel.app/api?username=rohankishore&theme=vue-dark&show_icons=true&hide_border=false&count_private=true) 
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rohankishore&theme=juicyfresh&no-frame=false&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=false)
-
-<br>
-
-
-## 📟 Certifications
-![image](https://github.com/rohankishore/rohankishore/assets/109947257/ee6695eb-e93b-465b-b50d-f5215b1ae5f9) ![Python Basic](https://github.com/user-attachments/assets/6869f0ca-2a52-4082-974d-4ecbc953b7e6)
- ![Python for Beginners](https://github.com/user-attachments/assets/33e20867-5fec-44dd-9aa6-db39fc459f11) ![Python DS](https://github.com/user-attachments/assets/e4f8da55-e735-4241-a344-85e03e9e4be0) ![image 4](https://github.com/user-attachments/assets/246dcd04-dc49-4246-ae6d-066ee155ad55)
+</div>
