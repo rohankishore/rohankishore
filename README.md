@@ -19,7 +19,7 @@
 I'm a 19-year-old developer and a student at the **College of Engineering, Trivandrum (CET)**, pursuing a degree in Electrical and Computer Engineering. My primary passion lies in building functional and user-friendly desktop applications with Python.
 
 - 🌱 **Currently Learning:** Full-stack web development to broaden my skillset.
-- 🚀 **Currently Building:** [Koodaram](https://koodaram.vercel.app), a community platform, and [EngiNote](https://github.com/rohankishore/EngiNote), a note-taking app for engineering students.
+- 🚀 **Currently Building:** [Koodaram](https://koodaram.vercel.app), a community platform, and [Schemix](https://github.com/rohankishore/Schemix), a note-taking app for engineering students with circuit analysis.
 - 💬 **Ask me about:** Python, especially GUI development with **PyQt6** and **Tkinter**.
 - 💼 **Open to work:** I'm available for freelance projects! You can hire me on [Fiverr](https://www.fiverr.com/rohancodespy/).
 
@@ -126,6 +126,7 @@ Here are a few projects I'm particularly proud of.
   <h4>Educational</h4>
   <ul>
     <li><b>PhysiPy</b>: Python library to solve Physics equations</li>
+    <li><b>Schemix</b>: An IDE for Engineers, Scientists and Students made entirely with Python</li>
     <li><b>Plotium</b>: Python library to plot chemical trends (Electronegativity, Atomic Radius, etc.)</li>
   </ul>
 </details>
