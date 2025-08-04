@@ -151,7 +151,7 @@ Here are some of my certifications from HackerRank and Sololearn.
 | Python (Basic) | Python for Beginners |
 | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/6869f0ca-2a52-4082-974d-4ecbc953b7e6" width="300" alt="HackerRank Python Basic"> | <img src="https://github.com/user-attachments/assets/33e20867-5fec-44dd-9aa6-db39fc459f11" width="300" alt="Sololearn Python for Beginners"> |
-| **Python for Data Science** | **SQL (Intermediate)** |
+| **Python Data Structures** | **Python 3.5** |
 | <img src="https://github.com/user-attachments/assets/e4f8da55-e735-4241-a344-85e03e9e4be0" width="300" alt="Sololearn Python for Data Science"> | <img src="https://github.com/user-attachments/assets/246dcd04-dc49-4246-ae6d-066ee155ad55" width="300" alt="HackerRank SQL Intermediate"> |
 
 </div>
