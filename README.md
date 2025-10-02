@@ -137,7 +137,12 @@ Here are a few projects I'm particularly proud of.
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohankishore&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" alt="Rohan's GitHub Stats">
+<picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuciNyan/LuciNyan/output/github-stats.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuciNyan/LuciNyan/output/github-stats-dark.png">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=rohankishore&screen_effect=false&theme=fuji&hide=avatar&dithering=true">
+</picture>
+  
   <br>
   <img src="https://github-profile-trophy.vercel.app/?username=rohankishore&theme=juicyfresh&no-frame=false&row=1&margin-w=20&no-bg=true" alt="Rohan's GitHub Trophies">
 </div>
