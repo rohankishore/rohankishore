@@ -19,7 +19,7 @@
 I'm a 19-year-old developer and a student at the **College of Engineering, Trivandrum (CET)**, pursuing a degree in Electrical and Computer Engineering. My primary passion lies in building functional and user-friendly desktop applications with Python.
 
 - 🌱 **Currently Learning:** Full-stack web development to broaden my skillset.
-- 🚀 **Currently Building:** [Koodaram](https://koodaram.vercel.app), a community platform, and [Schemix](https://github.com/rohankishore/Schemix), a note-taking app for engineering students with circuit analysis.
+- 🚀 **Currently Building:** [Koodaram](https://koodaram.vercel.app), a community platform, [PushBox](https://github.com/rohankishore/PushBox), a Git based backup software and [Schemix](https://github.com/rohankishore/Schemix), a note-taking app for engineering students with circuit analysis.
 - 💬 **Ask me about:** Python, especially GUI development with **PyQt6** and **Tkinter**.
 - 💼 **Open to work:** I'm available for freelance projects! You can hire me on [Fiverr](https://www.fiverr.com/rohancodespy/).
 
@@ -102,6 +102,7 @@ Here are a few projects I'm particularly proud of.
   <ul>
     <li><b>Aura Text</b>: IDE made with PyQt6 and QScintilla</li>
     <li><b>Youtility</b>: Youtube video/playlist downloader with a modern fluent design</li>
+    <li><b>PushBox</b>: Git based personal backup software</li>
     <li><b>ZenNotes</b>: Notepad alternative with TTS, Translations, etc</li>
     <li><b>Spotifyte</b>: Spotify track/playlist downloader with a modern fluent design</li>
     <li><b>Schemix</b>: An IDE for Engineers, Scientists and Students made entirely with Python</li>
