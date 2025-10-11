@@ -138,5 +138,9 @@ Here are a few projects I'm particularly proud of.
   
 <img src="https://github-readme-stats.vercel.app/api?username=rohankishore&show=prs_merged&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&hide=commits" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohankishore&langs_count=10&theme=tokyonight&layout=compact" alt="ysathyasai :: Top Langs" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohankishore&theme=tokyonight&hide_border=false" />
 
+---
 
+### Holopin Board
+
+[![An image of @rohankishore's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rohankishore)](https://holopin.io/@rohankishore)
 
