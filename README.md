@@ -129,6 +129,7 @@ Here are a few projects I'm particularly proud of.
     <li><b>PhysiPy</b>: Python library to solve Physics equations</li>
     <li><b>Schemix</b>: An IDE for Engineers, Scientists and Students made entirely with Python</li>
     <li><b>Plotium</b>: Python library to plot chemical trends (Electronegativity, Atomic Radius, etc.)</li>
+    <li><b>Promethium</b>: Python library with offline data access of all elements, reaction balancer etc</li>    
   </ul>
 </details>
 
