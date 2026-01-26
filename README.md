@@ -16,6 +16,8 @@
 
 ---
 
+<!-- GitAds-Verify: KTRE4MSX3SQA5H8CBALVVDT21CH3BRH5 -->
+
 ### 👋 About Me
 I'm a 19-year-old developer and a student at the **College of Engineering, Trivandrum (CET)**, pursuing a degree in Electrical and Computer Engineering. My primary passion lies in building functional and user-friendly desktop applications with Python.
 
