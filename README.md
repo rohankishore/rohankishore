@@ -5,7 +5,7 @@
   <img src="https://github.com/rohankishore/rohankishore/assets/109947257/f50a5315-5380-4777-b7a8-0184aaa79897" alt="Welcome Banner">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&background=40FFAC00&vCenter=true&random=false&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hi+there!+I'm+Rohan" alt="Typing SVG"></a>
   
-> Feel no fear before the multitude of men, do not run in panic, but let each man bear his shield straight toward the fore-fighters, regarding his own life as hateful and holding the dark spirits of death as dear as the radiance of the sun.
+> Man it's so hard not to act reckless!
 
 
   <h3>Let's Connect!</h3>
@@ -23,10 +23,13 @@
 ### 👋 About Me
 I'm a 19-year-old developer and a student at the **College of Engineering, Trivandrum (CET)**, pursuing a degree in Electrical and Computer Engineering. My primary passion lies in building functional and user-friendly desktop applications with Python.
 
-- 🌱 **Currently Learning:** Full-stack web development to broaden my skillset.
-- 🚀 **Currently Building:** [Koodaram](https://koodaram.vercel.app), a community platform, [NoMoreBS](https://nomorebs.vercel.app/), an extremely offensive ToDo app and [Schemix](https://github.com/rohankishore/Schemix), a note-taking app for engineering students with circuit analysis.
-- 💬 **Ask me about:** Python, especially GUI development with **PyQt6** and **Tkinter**.
-- 💼 **Open to work:** I'm available for freelance projects! You can hire me on [Fiverr](https://www.fiverr.com/rohancodespy/).
+- 💖 Current Positions:
+  - Technical Coordinator @ IET On Campus CET
+  - Subpanel Member @ Tinkerhub CET
+  - Technical Member @ Glitch CET
+  - Tech Subpanel Member @ GDGC CET
+
+- 🚀 **Currently Building:** [Koodaram](https://koodaram.vercel.app), a community platform, [Aura Text](https://github.com/rohankishore/Aura-Text), an IDE made with QScintilla and PyQt6, [NoMoreBS](https://nomorebs.vercel.app/), an extremely offensive ToDo app and [Schemix](https://github.com/rohankishore/Schemix), a note-taking app for engineering students with circuit analysis.
 
 ---
 
