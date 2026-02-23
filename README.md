@@ -24,7 +24,7 @@ I'm a 19-year-old developer and a student at the **College of Engineering, Triva
 
 - 💖 Current Positions:
   - Technical Coordinator @ IET On Campus CET
-  - Subpanel Member @ Tinkerhub CET
+  - Subpanel Member @ [Tinkerhub CET](https://github.com/tinkerhubcet)
   - Technical Member @ Glitch CET
   - Tech Subpanel Member @ GDGC CET
 
