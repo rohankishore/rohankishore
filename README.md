@@ -7,7 +7,6 @@
   
 > Man it's so hard not to act reckless!
 
-
   <h3>Let's Connect!</h3>
   <a href="https://www.hackerrank.com/profile/rohankishore7461"><img src="https://img.shields.io/badge/hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
   <a href="https://rohankishore.github.io/"><img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
