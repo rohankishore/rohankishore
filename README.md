@@ -5,9 +5,9 @@
   <img src="https://github.com/rohankishore/rohankishore/assets/109947257/f50a5315-5380-4777-b7a8-0184aaa79897" alt="Welcome Banner">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&background=40FFAC00&vCenter=true&random=false&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hi+there!+I'm+Rohan" alt="Typing SVG"></a>
   
-> Man it's so hard not to act reckless!
+> Man its so hard not to act reckless 
 
-  <h3>Let's Connect!</h3>
+  <h3>Stalk me professionally 👇</h3>
   <a href="https://www.hackerrank.com/profile/rohankishore7461"><img src="https://img.shields.io/badge/hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
   <a href="https://rohankishore.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="https://www.fiverr.com/rohancodespy/"><img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"></a>
@@ -20,7 +20,7 @@
 
 
 ### 👋 About Me
-I'm a 19-year-old developer and a student at the **College of Engineering, Trivandrum (CET)**, pursuing a degree in Electrical and Computer Engineering. My primary passion lies in building functional and user-friendly desktop applications with Python.
+I'm a 19-year-old who writes useful(less) programs by day, questions his life choices by night, and attends **College of Engineering, Trivandrum (CET)** somewhere in between, Pursuing Electrical and Computer Engineering. My primary passion is shipping desktop apps that actually work (on my machine, at least).
 
 - 💖 Current Positions:
   - Technical Coordinator @ IET On Campus CET
@@ -28,11 +28,11 @@ I'm a 19-year-old developer and a student at the **College of Engineering, Triva
   - Technical Member @ Glitch CET
   - Tech Subpanel Member @ GDGC CET
 
-- 🚀 **Currently Building:** [Koodaram](https://koodaram.vercel.app), a community platform, [Aura Text](https://github.com/rohankishore/Aura-Text), an IDE made with QScintilla and PyQt6, [NoMoreBS](https://nomorebs.vercel.app/), an extremely offensive ToDo app and [Schemix](https://github.com/rohankishore/Schemix), a note-taking app for engineering students with circuit analysis.
+- 🚀 **Currently <strike>Breaking</strike> Building:** [Koodaram](https://koodaram.vercel.app) (a community platform that hopefully won't implode), [Aura Text](https://github.com/rohankishore/Aura-Text) (an IDE because VS Code has *too many* features), [NoMoreBS](https://nomorebs.vercel.app/) (a ToDo app so brutally honest it hurts), and [Schemix](https://github.com/rohankishore/Schemix) (notes + circuit analysis, because engineers deserve nice things too).
 
 ---
 
-### 🧰 My Tech Stack
+### 🧰 My Tech Stack (a.k.a. Things I Google Daily)
 
 <table>
   <tr>
@@ -73,37 +73,37 @@ I'm a 19-year-old developer and a student at the **College of Engineering, Triva
 
 ### 🚀 Featured Projects
 
-Here are a few projects I'm particularly proud of.
+Things I built instead of sleeping. No regrets.
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/rohankishore/Aura-Text">Aura Text</a></h3>
-      <p>A versatile IDE/Text Editor built with PyQt6 and QScintilla, designed for extensibility and a modern user experience.</p>
+      <p>A real IDE built with PyQt6 and QScintilla. Because someone had to do it, and it might as well be a sleep deprived student.</p>
       <p><code>Python</code> <code>PyQt6</code> <code>QScintilla</code></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/rohankishore/Schemix">Schemix</a></h3>
-      <p>An all-in-one IDE for Engineers, Scientists, and Students, packed with tools for scientific computing and visualization.</p>
+      <p>An all-in-one IDE for Engineers, Scientists, and Students who are tired of MATLAB's pricing and attitude.</p>
       <p><code>Python</code> <code>PyQt6</code> <code>NumPy</code> <code>Matplotlib</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/rohankishore/Youtility">Youtility</a></h3>
-      <p>A sleek, modern YouTube downloader that handles videos, playlists, audio, and subtitles with a fluent design.</p>
+      <p>A sleek YouTube downloader — for, uh, *educational* content. Totally. Handles videos, playlists, audio, and subtitles like a champ.</p>
       <p><code>Python</code> <code>PyQt6</code> <code>yt-dlp</code></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/rohankishore/AnimeSnap">AnimeSnap</a></h3>
-      <p>An innovative tool that identifies an anime's details (episode, timestamp) from just a screenshot using trace.moe API.</p>
+      <p>You screenshot one frame of an anime and it tells you exactly what episode it is. Extremely practical. Very real priorities.</p>
       <p><code>Python</code> <code>PyQt6</code> <code>API</code></p>
     </td>
   </tr>
 </table>
 
 <details>
-  <summary>📁 Click to see all projects</summary>
+  <summary>📁 Click to see all projects (there are a concerning number of them)</summary>
   
   <h4>GUI Based (PyQt6 & Tk)</h4>
   <ul>
@@ -143,6 +143,7 @@ Here are a few projects I'm particularly proud of.
 ---
 
 ### 📊 GitHub Statistics
+*(proof that I do in fact touch grass — just not very often)*
   
 <img src="https://github-readme-stats.vercel.app/api?username=rohankishore&show=prs_merged&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&hide=commits" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohankishore&langs_count=10&theme=tokyonight&layout=compact" alt="ysathyasai :: Top Langs" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohankishore&theme=tokyonight&hide_border=false" />
 
