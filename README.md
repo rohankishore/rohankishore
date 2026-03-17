@@ -22,7 +22,7 @@
 ### 👋 About Me
 I'm a 19-year-old who writes useful(less) programs by day, questions his life choices by night, and attends **College of Engineering, Trivandrum (CET)** somewhere in between, Pursuing Electrical and Computer Engineering. My primary passion is shipping desktop apps that actually work (on my machine, at least).
 
-- 💖 Current Positions:
+- 💖 Current Positions (aka clubs where I perform slave labour):
   - Technical Coordinator @ IET On Campus CET
   - Subpanel Member @ [Tinkerhub CET](https://github.com/tinkerhubcet)
   - Technical Member @ Glitch CET
