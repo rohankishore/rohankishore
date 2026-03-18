@@ -20,7 +20,8 @@
 
 
 ### 👋 About Me
-I'm a 19-year-old who writes useful(less) programs by day, questions his life choices by night, and attends **College of Engineering, Trivandrum (CET)** somewhere in between, Pursuing Electrical and Computer Engineering. My primary passion is shipping desktop apps that actually work (on my machine, at least).
+I’m 19. I build “useful” apps to fix problems I created five minutes earlier, then lie awake at 3am wondering if any of this is a good idea.
+I ship apps that run flawlessly on my machine and collapse into chaos everywhere else, much like my decision making.
 
 - 💖 Current Positions (aka clubs where I perform slave labour):
   - Technical Coordinator @ IET On Campus CET
