@@ -26,7 +26,9 @@ I ship apps that run flawlessly on my machine and collapse into chaos everywhere
 - 💖 Current Positions (aka clubs where I perform slave labour):
   - Technical Coordinator @ IET On Campus CET
   - Subpanel Member @ [Tinkerhub CET](https://github.com/tinkerhubcet)
+  - Project Lead @ FOSSCET
   - Technical Member @ Glitch CET
+  - Web Team @ Score@CET
   - Tech Subpanel Member @ GDGC CET
 
 - 🚀 **Currently <strike>Breaking</strike> Building:** [Koodaram](https://koodaram.vercel.app) (a community platform that hopefully won't implode), [Aura Text](https://github.com/rohankishore/Aura-Text) (an IDE because VS Code has *too many* features), [NoMoreBS](https://nomorebs.vercel.app/) (a ToDo app so brutally honest it hurts), and [Schemix](https://github.com/rohankishore/Schemix) (notes + circuit analysis, because engineers deserve nice things too).
