@@ -28,6 +28,7 @@ I ship apps that run flawlessly on my machine and collapse into chaos everywhere
   - Subpanel Member @ [Tinkerhub CET](https://github.com/tinkerhubcet)
   - Project Lead @ FOSSCET
   - Technical Member @ Glitch CET
+  - Web Head @ EL Association CET
   - Web Team @ Score@CET
   - Tech Subpanel Member @ GDGC CET
 
