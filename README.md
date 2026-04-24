@@ -5,7 +5,7 @@
   <img src="https://github.com/rohankishore/rohankishore/assets/109947257/f50a5315-5380-4777-b7a8-0184aaa79897" alt="Welcome Banner">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&background=40FFAC00&vCenter=true&random=false&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hi+there!+I'm+Rohan" alt="Typing SVG"></a>
   
-> Man its so hard not to act reckless 
+> Building cool stuffs that's been used by thousands of people across the world!
 
   <h3>Stalk me professionally 👇</h3>
   <a href="https://www.hackerrank.com/profile/rohankishore7461"><img src="https://img.shields.io/badge/hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
