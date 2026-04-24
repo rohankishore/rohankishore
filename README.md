@@ -20,19 +20,13 @@
 
 
 ### 👋 About Me
-I’m 19. I build “useful” apps to fix problems I created five minutes earlier, then lie awake at 3am wondering if any of this is a good idea.
-I ship apps that run flawlessly on my machine and collapse into chaos everywhere else, much like my decision making.
+I’m 19 and I build useful, cool apps that solve problems I run into in everyday life. I enjoy turning simple ideas into products people actually use, and some of my projects are already used by thousands.
 
-- 💖 Current Positions (aka clubs where I perform slave labour):
-  - Technical Coordinator @ IET On Campus CET
-  - Subpanel Member @ [Tinkerhub CET](https://github.com/tinkerhubcet)
-  - Project Lead @ FOSSCET
-  - Technical Member @ Glitch CET
-  - Web Head @ EL Association CET
-  - Web Team @ Score@CET
-  - Tech Subpanel Member @ GDGC CET
+#### 💖 Campus Tech Roles:
+Technical Coordinator @ IET CET • Project Lead @ FOSSCET • Tech Subpanel Member @ Google Developer Groups CET • Contributor across TinkerHub, Glitch CET, EL Association & Score@CET
 
-- 🚀 **Currently <strike>Breaking</strike> Building:** [Koodaram](https://koodaram.vercel.app) (a community platform that hopefully won't implode), [Aura Text](https://github.com/rohankishore/Aura-Text) (an IDE because VS Code has *too many* features), [NoMoreBS](https://nomorebs.vercel.app/) (a ToDo app so brutally honest it hurts), and [Schemix](https://github.com/rohankishore/Schemix) (notes + circuit analysis, because engineers deserve nice things too).
+#### 🚀 Currently <strike>Breaking</strike> Building:
+[Koodaram](https://koodaram.vercel.app) (a community platform that hopefully won't implode), [Aura Text](https://github.com/rohankishore/Aura-Text) (an IDE because VS Code has *too many* features), [NoMoreBS](https://nomorebs.vercel.app/) (a ToDo app so brutally honest it hurts), and [Schemix](https://github.com/rohankishore/Schemix) (notes + circuit analysis, because engineers deserve nice things too).
 
 ---
 
@@ -51,7 +45,9 @@ I ship apps that run flawlessly on my machine and collapse into chaos everywhere
       </p>
       <h4>Frameworks & Libraries</h4>
       <p>
-        <img src="https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PyQt6">
+        <img src="https://img.shields.io/badge/React-00599C?style=for-the-badge&logo=react&logoColor=white" alt="PyQt6/5">
+        <img src="https://img.shields.io/badge/Tailwind CSS-3175A2?style=for-the-badge&logo=tailwind&logoColor=white" alt="PyQt6/5">
+        <img src="https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PyQt6/5">
         <img src="https://img.shields.io/badge/Tkinter-2B5B84?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter">
         <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
         <img src="https://img.shields.io/badge/Matplotlib-3175A2?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
