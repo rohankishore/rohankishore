@@ -1,4 +1,3 @@
-
 <!-- GitAds-Verify: KTRE4MSX3SQA5H8CBALVVDT21CH3BRH5 -->
 <div align="center">
   <img src="https://github.com/rohankishore/rohankishore/assets/109947257/f50a5315-5380-4777-b7a8-0184aaa79897" alt="Welcome Banner">
