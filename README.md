@@ -25,7 +25,7 @@
 I’m 19 and I build useful, cool apps that solve problems I run into in everyday life. I enjoy turning simple ideas into products people actually use, and some of my projects are already used by thousands.
 
 #### 💖 Campus Tech Roles:
-Technical Coordinator @ IET CET • Project Lead @ FOSSCET • Tech Subpanel Member @ Google Developer Groups CET • Contributor across TinkerHub, Glitch CET, EL Association & Score@CET
+Project Lead @ FOSSCET  • Contributor across TinkerHub, Glitch CET, EL Association & Score@CET
 
 #### 🚀 Currently <strike>Breaking</strike> Building:
 [Koodaram](https://koodaram.vercel.app) (a community platform that hopefully won't implode), [Aura Text](https://github.com/rohankishore/Aura-Text) (an IDE because VS Code has *too many* features), [NoMoreBS](https://nomorebs.vercel.app/) (a ToDo app so brutally honest it hurts), and [Schemix](https://github.com/rohankishore/Schemix) (notes + circuit analysis, because engineers deserve nice things too).
