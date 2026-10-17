@@ -22,7 +22,7 @@
 
 
 ### 👋 About Me
-I’m 19 and I build useful, cool apps that solve problems I run into in everyday life. I enjoy turning simple ideas into products people actually use, and some of my projects are already used by thousands.
+I’m 20 and I build useful, cool apps that solve problems I run into in everyday life. I enjoy turning simple ideas into products people actually use, and some of my projects are already used by thousands.
 
 #### 💖 Campus Tech Roles:
 Project Lead @ FOSSCET  • Contributor across TinkerHub, Glitch CET, EL Association & Score@CET
